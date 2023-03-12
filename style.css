@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;  
+}
+.container{
+    margin: auto;
+}
+.b{
+    padding: 20px 20px;
+    font-weight: bolder;
+    width: 100px;
+    cursor: pointer;
+   
+}
+.b:hover{
+    background-color: yellow;
+    box-shadow: 0px 0px 100px greenyellow, 0px 0px 100px greenyellow, 0px 0px 100px greenyellow, 0px 0px 100px greenyellow;
+
+}
